@@ -1,0 +1,16 @@
+.card{
+  display: flex;
+  border-top-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  margin: 11px;
+  padding: 9px;
+  width: 100%;
+}
+.card img{
+     width: 34px;
+     height: 35px;
+     margin: 10px;
+}
+.card p{
+    color: white;
+}

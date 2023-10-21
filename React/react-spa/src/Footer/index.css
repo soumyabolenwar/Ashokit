@@ -1,0 +1,12 @@
+.Footer{
+  bottom: 0px;
+  width: 100%;
+}
+.Footer p{
+    background: #000;
+  color: #fff;
+  padding: 10px;
+  margin: 0px;
+  text-transform: capitalize;
+  font-size: 14px;
+}

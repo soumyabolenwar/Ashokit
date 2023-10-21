@@ -1,0 +1,13 @@
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+.row{
+  display: table;
+  width: 100%;
+}
+.col4{
+  float: left;
+  width: calc(33%-60px);
+  padding: 5px 30px;
+}
